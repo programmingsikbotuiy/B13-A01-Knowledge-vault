@@ -1,7 +1,4 @@
-/* .container{
-    max-width: 1140px;
-    margin:0 auto;
-} */
+
 .buttons{
     background-color: #469165;
     padding: 12px 16px;
@@ -34,6 +31,12 @@
 
     
 }
+.see-button{
+    padding: 12px 16px;
+    border-radius: 5px;
+    border: none;
+
+}
 .hero{
      width: 770px;
     margin: 0 auto; 
@@ -51,11 +54,12 @@
        
        
        
+       
 
 
 }
 .main-button{
-    display:inline-block;
+    display: flex;
     text-align: center;
 }
 .hero-section h1{
@@ -254,7 +258,7 @@
 }
 #footer-section .footer-right .pinish{
     color: white;
-    
+
 }
 
 
