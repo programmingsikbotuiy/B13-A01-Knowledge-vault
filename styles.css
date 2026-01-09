@@ -181,6 +181,35 @@
     font-weight: 500;
     line-height: 20px;
 }
+#Challange{
+    max-width:1140px;
+    margin:0 auto;
+    border-radius: 12px;
+    background: rgba(247, 246, 242, 1);
+    padding:50px 0 50px 0 ;
+}
+  
+#Challange .Challange-part h1 {
+    font-size: 48px;
+    font-weight: 700;
+    text-align: center;
+
+
+}
+#Challange .Challange-part P{
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    color: #627382;
+
+
+}
+#Challange .Challange-part  button{
+    display: block;
+    margin: 0 auto;
+    
+   
+}
 
 
     
