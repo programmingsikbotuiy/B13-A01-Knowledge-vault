@@ -1,4 +1,7 @@
-
+/* .container{
+    max-width: 1140px;
+    margin:0 auto;
+} */
 .buttons{
     background-color: #469165;
     padding: 12px 16px;
@@ -67,3 +70,120 @@
     color: #469165;
    
 }
+
+
+.Notes-container {
+    max-width: 1140px;
+    margin:0 auto;
+    padding-top: 30px;
+
+}
+.Notes-container .note-heading{
+    max-width:827px  ;
+    text-align: center;
+    margin: 0 auto;
+
+}
+.Notes-container .note-heading h1{
+    font-size: 48px;
+    font-weight: 700;
+    
+}
+.Notes-container .note-heading p {
+    font-size: 16px;
+    font-weight: 400;
+    color:#627382
+;
+    
+}
+.Notes-container .card{
+    display: flex;
+    
+    
+    gap:24px;
+    padding: 24px;
+   
+}
+.card{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.Notes-container .card-img img{
+    width:32px;
+    height:32px;
+    background-color: rgba(249, 85, 85, 1);
+    border-radius: 50%;
+  
+   
+    padding: 10px;
+    
+    
+    
+}
+.Notes-container .card-img{
+    border-radius: 8px;
+    
+    padding-top: 50px;
+    box-shadow: 0 6px 50px 0 rgba(0, 0, 0, 0.06);
+}
+.Notes-container .card-img h3{
+    font-size: 24px;
+    font-weight: 600;
+    
+}
+.Notes-container .card-img p{
+    font-size:16px ;
+    font-weight:400;
+    color: #627382;
+} 
+#brain{
+    max-width: 1140px;
+    margin:0 auto;
+    padding-top: 100px;
+    
+}
+#brain .brain-container{
+    display: flex;
+    gap: 60px;
+}
+#brain .contant-brain h4{
+    font-size: 16px;
+    font-weight: 500;
+    
+    color:  #30B868;
+
+
+}
+
+.contant-brain{
+    padding-top: 100px ;
+    padding-bottom: 100px;
+}
+#brain .contant-brain h2{
+    font-size: 48px;
+    font-weight: 700;
+}  
+#brain .contant-brain .paragrap{
+    font-size: 16px;
+    font-weight:400;
+    color: #627382;
+}
+
+
+.checkline .checklines{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.checkline .checklines p{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+}
+
+
+    
+    
+    
+
